@@ -1,7 +1,6 @@
 - Jan. 2023 @ CUHK
-- 👋 Hi, I’m Tandy, currently taking a doctor's degree in The Chinese University of Hong Kong, my supervisor is Prof Chaoran Huang, and I have taken my bachelor's degree from Huazhong University of Science and Technology with honors in 2022.06.
-- 👀 Currently, my research will mainly focus on exploiting the potential applications of Photonic recurrent neural network to show its cutting-edge advantages. 
-- 💞️ I’m looking to collaborate on silicon photonics, artificial intelligience.
+- Currently I am taking a doctor's degree in The Chinese University of Hong Kong, my supervisor is Prof Chaoran Huang, and I have taken my bachelor's degree from Huazhong University of Science and Technology with honors in 2022.06.
+- My research now is mainly focusing on exploiting the potential applications of Photonic recurrent neural network to show its cutting-edge advantages. 
 - 📫 How to reach me --> you could send me email at tengjixu@link.cuhk.edu.hk, hoping we have a nice chat. :)
 - July. 2021 @ HUST
 - 👋 Hi, I’m @1tengji1, currently taking a bachelor's degree in Huazhong University of Science and Technology, majoring optoelectronic information science 
